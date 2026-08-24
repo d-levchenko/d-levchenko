@@ -20,7 +20,7 @@
 
 <h2 data-importer="text" align="left">Featured Projects</h2>
 
-### 📝 NMT Quiz Builder
+### 🧠 NMT Quiz Builder
 Full-stack application for creating and completing quizzes.
 
 **React · Next.js · TypeScript · Zustand · TanStack Query · Node.js · Express · MongoDB**
@@ -33,7 +33,7 @@ Full-stack application for creating and completing quizzes.
 
 [View project](https://github.com/d-levchenko/nmt-project)
 
-### 📝 Baby Loading
+### 👶 Baby Loading
 
 **React · Next.js · TypeScript · Zustand · TanStack Query** 
 
