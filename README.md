@@ -115,7 +115,7 @@ Web application for expectant mothers to track of their baby's development and w
 </div>
 
 
-###  Feel free to reach out — I'm always open to interesting opportunities and collaborations.
+##  Feel free to reach out — I'm always open to interesting opportunities and collaborations.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/levchenkodmytro/" target="_blank">
@@ -124,7 +124,7 @@ Web application for expectant mothers to track of their baby's development and w
   <a href="https://t.me/iamdmytrowhoareyou" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="dl.qubb@gmail.com" target="_blank">
+  <a href="mailto:dl.qubb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
