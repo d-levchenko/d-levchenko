@@ -6,11 +6,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
-<p data-importer="text" align="left">Full-Stack Developer with hands-on experience building modern web applications using React, Next.js, TypeScript, JavaScript, Node.js, Express, and MongoDB.</p><h2 align="left">About me</h2>
+<h2 align="left">About me</h2>
 
 <p align="left">
   Full-Stack Developer focused on building modern web applications with React, Next.js, Node.js, and TypeScript.
