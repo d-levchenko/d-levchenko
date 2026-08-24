@@ -54,17 +54,17 @@ Web application for expectant mothers to track of their baby's development and w
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
 </div>
 
@@ -72,9 +72,9 @@ Web application for expectant mothers to track of their baby's development and w
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/REST-API-000000?logo=restapi&logoColor=white&style=for-the-badge" height="30" alt="rest api logo"  />
 </div>
 
@@ -82,11 +82,11 @@ Web application for expectant mothers to track of their baby's development and w
 
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Mongoose-47A248?logo=mongoose&logoColor=white&style=for-the-badge" height="30" alt="mongoose logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Prisma-2D374A?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
 </div>
 
@@ -94,7 +94,7 @@ Web application for expectant mothers to track of their baby's development and w
 
 <div data-importer="techs" align="left">
   <img src="https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge" height="30" alt="zustand logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/TanStack-000000?logo=tanstack&logoColor=white&style=for-the-badge" height="30" alt="tanstack logo"  />
 </div>
 
@@ -102,15 +102,15 @@ Web application for expectant mothers to track of their baby's development and w
 
 <div data-importer="techs" align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="postman logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=for-the-badge" height="30" alt="render logo"  />
 </div>
 
