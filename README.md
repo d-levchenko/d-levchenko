@@ -86,8 +86,6 @@ Web application for expectant mothers to track of their baby's development and w
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Mongoose-47A248?logo=mongoose&logoColor=white&style=for-the-badge" height="30" alt="mongoose logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Prisma-2D374A?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
 </div>
 
 ### State & Data
