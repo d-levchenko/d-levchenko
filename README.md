@@ -1,6 +1,6 @@
 # Hey 👋 I'm Dmytro Levchenko
 
-### Full-Stack Developer | React | Next.js | Node.js | TypeScript
+### Junior Full-Stack Developer | React | Next.js | Node.js | TypeScript
 
 ###
 
@@ -10,43 +10,7 @@ Full-Stack Developer focused on building modern web applications with React, Nex
  
 I enjoy working across the stack — from building responsive and reusable interfaces to developing REST APIs, authentication, CRUD functionality, and database integrations.
 
-Currently looking for a remote Junior/Trainee Full-Stack or Frontend Developer role where I can contribute to real products, work with an experienced team, and continue growing as a developer.
-
-## Featured Projects
-
-### 🧠 NMT Quiz Builder
-Full-stack application for creating and completing quizzes.
-
-**React · Next.js · TypeScript · Zustand · TanStack Query · Node.js · Express · MongoDB**
-
-- Users can choose available topics, solve quizzes, and save their results.
-- Teachers and administrators can create and manage quizzes.
-- Protected routes based on user roles.
-
-[View project](https://github.com/d-levchenko/nmt-project)
-
-### 👶 Baby Loading
-Web application for expectant mothers to track of their baby's development and well-being.
-
-**React · Next.js · TypeScript · Zustand · TanStack Query** 
-
-- User registration and authentication
-- Baby development tracking
-- Health and well-being tracking
-- Personal notes
-
-[View project](https://github.com/Tigra26/baby-loading)
-
-### 📝 NoteHub
-
-**React · Next.js · TypeScript · Zustand · TanStack Query**
-
-- Authentication and protected routes
-- Note creation and management
-- Search functionality
-- Global layout and navigation
-
-[View project](https://github.com/d-levchenko/notehub)
+I'm continuously expanding my full-stack skills and exploring backend development with Node.js, NestJS, and PostgreSQL.
 
 ## Tech Stack
 
@@ -94,6 +58,8 @@ Web application for expectant mothers to track of their baby's development and w
   <img src="https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge" height="30" alt="zustand logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/TanStack-000000?logo=tanstack&logoColor=white&style=for-the-badge" height="30" alt="tanstack logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
 </div>
 
 ### Tools & Other
